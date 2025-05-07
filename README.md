@@ -20,7 +20,7 @@ Make sure the following are installed:
 ### 🔧 **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/Java-ci-cd.git
+git clone https://github.com/AnushreeGM/Java-ci-cd.git
 cd Java-ci-cd
 ```
 
